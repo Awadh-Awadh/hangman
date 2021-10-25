@@ -13,10 +13,10 @@
 
 ## To play
 
-- clone the repo in your local machine <git clone reponame>
-- run the file and play in the command line <python filename>
+- clone the repo in your local machine`{ git clone reponame}`
+- run the file and play in the command line  `{ python filename}`
 
 
 
 
-# made with love Awadh
+### made with love Awadh
